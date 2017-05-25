@@ -1,0 +1,1144 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"D",
+				"Dialog\tclass"
+			],
+			[
+				"B",
+				"Button\tclass"
+			],
+			[
+				"an",
+				"angles"
+			],
+			[
+				"pr",
+				"productDetail"
+			],
+			[
+				"pa",
+				"paidMessage"
+			],
+			[
+				"com",
+				"componentDidUpdate"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ca",
+				"case"
+			],
+			[
+				"P",
+				"PaymentType"
+			],
+			[
+				"t",
+				"transaction"
+			],
+			[
+				"produ",
+				"productDetail"
+			],
+			[
+				"b",
+				"begin\tbegin … rescue … end"
+			],
+			[
+				"sc",
+				"scrollToRight"
+			],
+			[
+				"S",
+				"Scrollbars"
+			],
+			[
+				"dimen",
+				"dimension_image_url"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"p",
+				"products"
+			],
+			[
+				"de",
+				"defaultProductId"
+			],
+			[
+				"st",
+				"state\tReact: this.state"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"col-xs-of",
+				"col-xs-offset-1"
+			],
+			[
+				"co",
+				"col-xs-8"
+			],
+			[
+				"col-xs",
+				"col-xs-8"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"home-p",
+				"home-product"
+			],
+			[
+				"N",
+				"NavDropdown"
+			],
+			[
+				"cos",
+				"col-xs-6"
+			],
+			[
+				"hi",
+				"hidden-sm"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cal",
+				"className"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"cla",
+				"className"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/daniel840829/ESP8266-micropython-mearm/PWM.py",
+			"settings":
+			{
+				"buffer_size": 622,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/daniel840829/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 113,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pgu-master/examples/gui1.py",
+			"settings":
+			{
+				"buffer_size": 447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pgu-master/examples/gui17.py",
+			"settings":
+			{
+				"buffer_size": 1583,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/daniel840829/webrepl-master/webrepl.html",
+			"settings":
+			{
+				"buffer_size": 12052,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zu_python.sublime-project",
+			"settings":
+			{
+				"buffer_size": 642,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "websockettest.py",
+			"settings":
+			{
+				"buffer_size": 597,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import websocket"
+			}
+		},
+		{
+			"file": "pgu-master/examples/gui6.py",
+			"settings":
+			{
+				"buffer_size": 2219,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pgu/gui/widget.py",
+			"settings":
+			{
+				"buffer_size": 11861,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PGUtest.py",
+			"settings":
+			{
+				"buffer_size": 1527,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pgu-master/examples/gui14.py",
+			"settings":
+			{
+				"buffer_size": 2300,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 186.0,
+		"last_filter": "Package Control:i",
+		"selected_items":
+		[
+			[
+				"Package Control:i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 303.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/daniel840829/Pygame"
+	],
+	"file_history":
+	[
+		"/home/daniel840829/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/daniel840829/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/daniel840829/.config/sublime-text-3/Packages/Python Breakpoints/PythonBreakpoints.sublime-settings",
+		"/home/daniel840829/Pygame/pgu-master/examples/gui13.py",
+		"/home/daniel840829/Pygame/pgu-master/examples/gui11.py",
+		"/home/daniel840829/Pygame/pgu-master/examples/gui12.py",
+		"/home/daniel840829/Pygame/PGUTest",
+		"/home/daniel840829/Pygame/tkintertest.py",
+		"/home/daniel840829/Pygame/pgu-master/examples/gui7.py",
+		"/home/daniel840829/Pygame/pgu-master/examples/gui2.py",
+		"/home/daniel840829/ESP8266-micropython-mearm/meArm.py",
+		"/home/daniel840829/ESP8266-micropython-mearm/main.py",
+		"/home/daniel840829/Pygame/main.py",
+		"/home/daniel840829/webrepl-master/term.js",
+		"/home/daniel840829/webrepl-master/webrepl.html",
+		"/home/daniel840829/ESP8266-micropython-mearm/kinematics.py",
+		"/home/daniel840829/ESP8266-micropython-mearm/arm.py",
+		"/home/daniel840829/zuedu_front/server/server.js",
+		"/home/daniel840829/zuedu_front/components/Home.js",
+		"/home/daniel840829/zuedu/app/services/cart_service.rb",
+		"/home/daniel840829/zuedu_front/components/OrderInfo.js",
+		"/home/daniel840829/zuedu_front/components/PaymentDetail.js",
+		"/home/daniel840829/zuedu_front/containers/DashboardProductForm.js",
+		"/home/daniel840829/zuedu_front/containers/OrdersForm.js",
+		"/home/daniel840829/zuedu_front/actions/dashboard.js",
+		"/home/daniel840829/zuedu_front/actions/index.js",
+		"/home/daniel840829/zuedu_front/containers/ProductForm.js",
+		"/home/daniel840829/zuedu/app/controllers/dashboard/orders_controller.rb",
+		"/home/daniel840829/zuedu_front/containers/DashboardOrdersContainer.js",
+		"/home/daniel840829/zuedu/log/capistrano.log",
+		"/home/daniel840829/zuedu/log/development.log",
+		"/home/daniel840829/zuedu/app/services/discount_matcher.rb",
+		"/home/daniel840829/zuedu/app/controllers/orders_controller.rb",
+		"/home/daniel840829/zuedu/app/models/transaction.rb",
+		"/home/daniel840829/zuedu/db/migrate/20160629090520_create_transactions.rb",
+		"/home/daniel840829/zuedu/db/migrate/20160629090443_create_orders.rb",
+		"/home/daniel840829/zuedu/config/application.rb",
+		"/home/daniel840829/zuedu/app/models/allpay/form.rb",
+		"/home/daniel840829/zuedu/app/models/product.rb",
+		"/home/daniel840829/zuedu/app/models/order.rb",
+		"/home/daniel840829/zuedu/app/models/line_item.rb",
+		"/home/daniel840829/zuedu/config/environments/development.rb",
+		"/home/daniel840829/zuedu/config/environments/production.rb",
+		"/home/daniel840829/zuedu/app/serializers/transaction_serializer.rb",
+		"/home/daniel840829/zuedu/app/controllers/dashboard/products_controller.rb",
+		"/home/daniel840829/zuedu_front/containers/DashboardOrderForm.js",
+		"/home/daniel840829/zuedu_front/components/CartInfo.js",
+		"/home/daniel840829/zuedu_front/containers/CartContainer.js",
+		"/home/daniel840829/zuedu_front/containers/OrdersFormNew.js",
+		"/home/daniel840829/zuedu_front/containers/DashboardMembersContainer.js",
+		"/home/daniel840829/zuedu/config/routes.rb",
+		"/home/daniel840829/zuedu_front/components/ApplicantForm.js",
+		"/home/daniel840829/zuedu_front/webpack.config.js",
+		"/home/daniel840829/zuedu_front/containers/ProductsContainer.js",
+		"/home/daniel840829/zuedu_front/public/stylesheets/style.css",
+		"/home/daniel840829/zuedu_front/containers/DashboardApplicantForm.js",
+		"/home/daniel840829/zuedu_front/containers/DashboardApplicantsContainer.js",
+		"/home/daniel840829/zuedu_front/containers/DashboardCartForm.js",
+		"/home/daniel840829/zuedu_front/containers/DashboardCartsContainer.js",
+		"/home/daniel840829/zuedu_front/components/Footer.js",
+		"/home/daniel840829/zuedu_front/containers/NavbarInstance.js",
+		"/home/daniel840829/zuedu_front/reducers/dashboard.js",
+		"/home/daniel840829/zuedu_front/routes.js",
+		"/home/daniel840829/zuedu_front/components/OrderInfoOld.js",
+		"/home/daniel840829/zuedu_front/containers/OrderInfoOld.js",
+		"/home/daniel840829/zuedu_front/components/ApplicantFormOld.js",
+		"/home/daniel840829/notify_by Mail do |mail|",
+		"/home/daniel840829/zuedu_front/containers/About.js",
+		"/home/daniel840829/zuedu_front/server/views/index.ejs",
+		"/home/daniel840829/zuedu_front/containers/OrdersContainer.js",
+		"/home/daniel840829/zuedu_front/.babelrc",
+		"/home/daniel840829/zuedu_front/package.json",
+		"/home/daniel840829/zuedu_front/components/ProductItem.js",
+		"/home/daniel840829/桌面/product-icons.png",
+		"/home/daniel840829/zuedu_front/containers/App.js",
+		"/home/daniel840829/zuedu/app/models/member.rb",
+		"/home/daniel840829/zuedu/app/controllers/members/omniauth_callbacks_controller.rb",
+		"/home/daniel840829/zuedu/config/initializers/filter_parameter_logging.rb",
+		"/home/daniel840829/zuedu/db/migrate/20170406133603_add_activity_url_to_products.rb",
+		"/home/daniel840829/zuedu/config/environment.rb",
+		"/home/daniel840829/zuedu/config/initializers/devise.rb",
+		"/home/daniel840829/zuedu/app/serializers/product_serializer.rb",
+		"/home/daniel840829/zuedu/db/migrate/20160629090442_create_products.rb",
+		"/home/daniel840829/zuedu/db/migrate/20160629090444_create_product_details.rb",
+		"/home/daniel840829/zuedu/db/migrate/20170406130624_add_activity_image_url_to_products.rb",
+		"/home/daniel840829/zuedu_front/node_modules/express/lib/response.js",
+		"/home/daniel840829/zuedu/db/seeds.rb",
+		"/home/daniel840829/zuedu/config/secrets.yml",
+		"/home/daniel840829/zuedu/config/deploy.rb",
+		"/home/daniel840829/zuedu/app/controllers/members_controller.rb",
+		"/home/daniel840829/zuedu/config/database.yml",
+		"/home/daniel840829/zuedu_front/public/images/pic7.png",
+		"/home/daniel840829/zuedu_front/public/images/threeRoad.png",
+		"/home/daniel840829/zuedu_front/public/images/pic5.png",
+		"/home/daniel840829/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/daniel840829/prac/app/views/articles/new.html.erb",
+		"/home/daniel840829/prac/app/views/articles/show.html.erb",
+		"/home/daniel840829/prac/app/views/articles/index.html.erb",
+		"/home/daniel840829/prac/app/views/welcome/index.html.erb",
+		"/home/daniel840829/prac/app/controllers/articles_controller.rb",
+		"/home/daniel840829/prac/app/models/article.rb",
+		"/home/daniel840829/prac/config/routes.rb",
+		"/home/daniel840829/blog/app/views/welcome/index.html.erb",
+		"/home/daniel840829/blog/app/controllers/articles_controller.rb",
+		"/home/daniel840829/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/daniel840829/blog/config/routes.rb",
+		"/home/daniel840829/blog/app/views/articles/new.html.erb",
+		"/home/daniel840829/blog/app/controllers/welcome_controller.rb",
+		"/home/daniel840829/blog/config/boot.rb"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"s",
+			"decode_resp",
+			"binary_state",
+			"prepare_for_connect",
+			"term",
+			"#define ",
+			"fetch_transactions",
+			"productDetail",
+			"this.state.productDetail",
+			"handleErrors",
+			"fetch",
+			"fetch_config",
+			"getAllpayForm",
+			"submitAllpayForm",
+			"getAllpayForm",
+			".product-item-title h1",
+			".product-item-title h1 ",
+			"product-item",
+			".activity-slider",
+			"pec",
+			"home-product-spec",
+			"home-produc",
+			"uct-sp",
+			"home-product-sp",
+			"home-product",
+			"footerlogo",
+			"footer-container",
+			"products",
+			"submitAllpayForm",
+			"cleanAllpayForm",
+			"submitForm",
+			"total",
+			"applicant.id",
+			"defaultProductId",
+			"withCredentials",
+			"receiveCart",
+			"submitApplicants",
+			"fetchData",
+			"_renderCart()",
+			"renderCart",
+			"matchable_discount_factor",
+			"cart_matchable_discount_factor",
+			"h6",
+			"<input",
+			")\n",
+			"food_preference",
+			"name",
+			"parent_email",
+			"body",
+			".home-product-block",
+			"applicant-form-input-long",
+			"applicant-form-input",
+			"h6",
+			"applicant-form-label",
+			"header-polgan-right",
+			"],\n",
+			"\",\n",
+			".black",
+			"  ",
+			"product-form-section-blue",
+			"yellow-bar",
+			"#",
+			"home-bl",
+			"#ba",
+			"product-form-section",
+			"section",
+			"768px",
+			"@media(min-width: 768px)",
+			"@media (min-width: 768px)",
+			"product-cover",
+			"container-fix",
+			"product-cover",
+			"alert",
+			"product-ite",
+			"white",
+			"product-item",
+			"user.rb",
+			"secret_key_base",
+			"domain",
+			"header-polgan-left",
+			".home-product-spec img {\n    min-height: 21px;\n}",
+			"NAVBAR",
+			"md",
+			"white",
+			"header-polgan-left",
+			"@",
+			"container",
+			"footer-detail",
+			"footer-",
+			"footer-icon",
+			".home-blocks",
+			"home-block-de",
+			"left",
+			"home-product-detail",
+			"right",
+			"navbar-logo",
+			"home-product-block",
+			"product-block",
+			"home-block-detail",
+			"navbar-logo",
+			"right",
+			"%; ",
+			"home-numbers-container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/daniel840829/ESP8266-micropython-mearm/PWM.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/home/daniel840829/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pgu-master/examples/gui1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pgu-master/examples/gui17.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								567,
+								567
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/daniel840829/webrepl-master/webrepl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12051,
+								12051
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11737.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "zu_python.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "websockettest.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "import websocket",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "pgu-master/examples/gui6.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 726.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "pgu/gui/widget.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7569,
+								7569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4962.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "PGUtest.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1527,
+						"regions":
+						{
+							"bp-c1dc4ea9":
+							{
+								"flags": 16,
+								"icon": "circle",
+								"regions":
+								[
+									[
+										1014,
+										1014
+									]
+								],
+								"scope": "invalid"
+							}
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "pgu-master/examples/gui14.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.395993260195,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.656,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "zu_python.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,3 @@
+PGUtest.py是幕前正在開發的電腦的ui介面為了將webrepl/webrepl.html移植到python上
+希望可以將MEARM整合只要python就可以控制減少小朋友使用黑窗的平率
+ESP8266-micropython-mearm資料夾裡的則是要上傳晶片中給micropython去運作的
