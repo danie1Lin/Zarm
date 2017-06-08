@@ -135,7 +135,7 @@ class MainGui(gui.Desktop):
 class GameEngine(object):
     def __init__(this, disp):
         this.disp = disp
-        this.square = pygame.Surface((400,400)).convert_alpha()
+        this.square = pygame.Surface((400,800)).convert_alpha()
         this.square.fill((255,0,0))
         this.app = MainGui(this.disp)
         this.app.engine = this
@@ -167,7 +167,7 @@ class GameEngine(object):
 
         # Draw the real time clock
         angle = this.clock.get_real_time()*2*math.pi/10.0
-        draw_clock("Real time", (30,30), 25, (255,200,100), angle)
+        draw_clock("Real time", (30,480), 25, (255,200,100), angle)
 
         # Now draw the game clock
         angle = this.clock.get_time()*2*math.pi/10.0
@@ -196,7 +196,7 @@ class GameEngine(object):
             rect = this.app.get_render_area()
             updates = []
             this.disp.set_clip(rect)
-            lst = this.render(this.disp, rect)
+            lst = this.render(this.disp,rect)
             if (lst):
                 updates += lst
             this.disp.set_clip()
@@ -213,7 +213,7 @@ class GameEngine(object):
 
 
 ###
-disp = pygame.display.set_mode((800, 600))
+disp = pygame.display.set_mode((1200, 600))
 eng = GameEngine(disp)
 eng.run()
 
